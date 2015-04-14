@@ -1,4 +1,4 @@
-package com.journaldev.hibernate.main;
+package com.hibernate.main;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -7,9 +7,9 @@ import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
 
-import com.journaldev.hibernate.model.Cart1;
-import com.journaldev.hibernate.model.Items1;
-import com.journaldev.hibernate.util.HibernateAnnotationUtil;
+import com.hibernate.model.Cart1;
+import com.hibernate.model.Items1;
+import com.hibernate.util.HibernateAnnotationUtil;
 
 public class HibernateOneToManyAnnotationMain {
 

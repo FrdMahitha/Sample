@@ -1,4 +1,4 @@
-package com.journaldev.hibernate.model;
+package com.hibernate.model;
 
 import java.util.Set;
 
